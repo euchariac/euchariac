@@ -1,4 +1,4 @@
-- 👋 Hi,  
+- 👋 Hi,  I an Eucharia
 - 👀 I’m interested in applying data analysis and machine learning to financial services.
 - 🌱 I’m currently learning Python for data science
 - 💞️ I’m looking to collaborate on to collaborate on projects that leverage data to improve financial processes.
